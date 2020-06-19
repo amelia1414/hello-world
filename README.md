@@ -1,2 +1,5 @@
 # hello-world
-Just for learning how to create a repository
+
+Hi everyone!
+
+My name is Amelia. I try to learn about data science. Wish me luck!
